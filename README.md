@@ -1,5 +1,8 @@
 # Pathmatics
 
+## Results
+I found Three Duplicate Advertiser name.
+Machine Gun Preacher Movie, The Regents of the University of Michigan, Hugo Movie
 
 ## TODO
 

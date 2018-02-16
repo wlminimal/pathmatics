@@ -24,7 +24,7 @@ defmodule Pathmatics.DuplicateInspector do
 	@spec binary_to_list(binary) :: list
 	def binary_to_list(binary) do
 		binary
-		|> String.split("\n")
+		|> String.split("\n") # Separate by carriage return.
 	end
 
 	@doc """
